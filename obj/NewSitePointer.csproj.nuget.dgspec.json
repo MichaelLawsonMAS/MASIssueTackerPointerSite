@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MichaelLawson\\source\\repos\\NewSitePointer\\NewSitePointer.csproj": {}
+    "C:\\Users\\MichaelLawson\\Documents\\GitHub\\MASIssueTackerPointerSite\\NewSitePointer.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MichaelLawson\\source\\repos\\NewSitePointer\\NewSitePointer.csproj": {
+    "C:\\Users\\MichaelLawson\\Documents\\GitHub\\MASIssueTackerPointerSite\\NewSitePointer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MichaelLawson\\source\\repos\\NewSitePointer\\NewSitePointer.csproj",
+        "projectUniqueName": "C:\\Users\\MichaelLawson\\Documents\\GitHub\\MASIssueTackerPointerSite\\NewSitePointer.csproj",
         "projectName": "NewSitePointer",
-        "projectPath": "C:\\Users\\MichaelLawson\\source\\repos\\NewSitePointer\\NewSitePointer.csproj",
+        "projectPath": "C:\\Users\\MichaelLawson\\Documents\\GitHub\\MASIssueTackerPointerSite\\NewSitePointer.csproj",
         "packagesPath": "C:\\Users\\MichaelLawson\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MichaelLawson\\source\\repos\\NewSitePointer\\obj\\",
+        "outputPath": "C:\\Users\\MichaelLawson\\Documents\\GitHub\\MASIssueTackerPointerSite\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MichaelLawson\\AppData\\Roaming\\NuGet\\NuGet.Config",
